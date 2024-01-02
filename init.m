@@ -34,7 +34,7 @@ trajectory = 'trajectory_tracking_non_linear_sub';
 
 
 % Parameters
-distance_threshold = 2;
+distance_threshold = 4;
 
 sagittal_K = [10; 5];
 
