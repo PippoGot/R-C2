@@ -27,10 +27,10 @@ initial_conditions_trans_3 = state_transformation([0,0,0], initial_conditions_3)
 %posture = 'cartesian_subsys';
 
 % Trajectory Tracking Strategy
-trajectory = 'feed_lin_sagittal_sub';                   % 92.00%
+% trajectory = 'feed_lin_sagittal_sub';                   % 92.00%
 % trajectory = 'feed_lin_double_deriv_sub';             % 94.00%
 % trajectory = 'trajectory_tracking_linear_sub';        % 50.67%
-% trajectory = 'trajectory_tracking_non_linear_sub';    % 94.67%
+ trajectory = 'trajectory_tracking_non_linear_sub';    % 94.67%
 
 
 % Parameters
