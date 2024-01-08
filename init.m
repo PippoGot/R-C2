@@ -23,8 +23,8 @@ initial_conditions_trans_3 = state_transformation([0,0,0], initial_conditions_3)
 
 
 % Posture Regulation Strategy
- posture = 'posture_subsys';
-%posture = 'cartesian_subsys';
+% posture = 'posture_subsys';
+posture = 'cartesian_subsys';
 
 % Trajectory Tracking Strategy
 trajectory = 'feed_lin_sagittal_sub';
