@@ -1,15 +1,4 @@
 Repeat the simulations:
 - For every controller: reapeat tests for distance threshold 4 and 0.5
 - Log data in github
-
-appunti su controllori:
-
-dd
-- difficult to tune
-- very smooth trajectory
-- implementation issues
-
-linear
-- difficult to tune
-- sensitivity issues
-- lots of backup manuever / not smooth path
+- preparare qualche simulazione grafica live
